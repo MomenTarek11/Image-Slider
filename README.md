@@ -1,6 +1,6 @@
 # Image Slider 
 Animals Image Slider 
-##skils
+## skils
 -HTML
 -CSS
 -JS
